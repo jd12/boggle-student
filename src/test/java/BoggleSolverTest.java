@@ -53,7 +53,7 @@ public class BoggleSolverTest {
   
   //TODO: create testGetAllValidWords for your dictionaries
   // one for horizontal, one for vertical, one for diagonal
-  // one for combination
+  // one for combination (i.e. a word that is formed by going horizontal, then vertical, then diagonal)
 
   /**
    * Test method for {@link BoggleSolver#scoreOf(java.lang.String)}.
@@ -64,7 +64,7 @@ public class BoggleSolverTest {
     String[] dictionary = input.readAllStrings();
     BoggleSolver solver = new BoggleSolver(dictionary);
     assertEquals(1, solver.scoreOf("NTH"));
-    assertEquals(1, solver.scoreOf("PTH"));
+    assertEquals(1, solver.scoreOf("PHT"));
   }
   
   // TODO: create test cases that goes through all board-points boards 
