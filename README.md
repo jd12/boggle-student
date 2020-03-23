@@ -1,8 +1,8 @@
 ## Assignment Specification
-http://coursera.cs.princeton.edu/algs4/assignments/boggle.html
+https://coursera.cs.princeton.edu/algs4/assignments/boggle/specification.php
 
 ## Checklist 
-http://coursera.cs.princeton.edu/algs4/checklists/boggle.html
+https://coursera.cs.princeton.edu/algs4/assignments/boggle/faq.php
 
 ## Programming Assignment 4: Boggle
 
